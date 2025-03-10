@@ -33,9 +33,6 @@ Click the "Scan Ports" button to scan the added ports and check their status.
 ### How can I reset the port list?
 Click the "Reset" button to clear the port list and reset the progress bar.
 
-## Contact
-For any questions or technical support, you can contact [Your Name] at [Your Email].
-
 ## Credits
 Developed by Aldruh.
 
@@ -78,9 +75,6 @@ Haga clic en el botón "Scan Ports" para escanear los puertos añadidos y verifi
 
 ### ¿Cómo puedo restablecer la lista de puertos?
 Haga clic en el botón "Reset" para limpiar la lista de puertos y restablecer la barra de progreso.
-
-## Contacto
-Para cualquier pregunta o soporte técnico, puede ponerse en contacto con [Tu Nombre] a través de [Tu Correo Electrónico].
 
 ## Créditos
 Desarrollado por Aldruh.
